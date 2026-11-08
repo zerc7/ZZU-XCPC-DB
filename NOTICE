@@ -1,0 +1,11 @@
+This project adapts OIerDB NG's Header, Pagination, responsive utilities,
+associated Less styles, and global theme. Data-specific pages are adapted
+to the ZZU XCPC archive.
+
+Reference project: https://github.com/OIerDb-ng/OIerDb
+Reference revision: e104eb6da5f9509beceb563e92257ec5d314bc66
+Reference license: GNU Affero General Public License v3.0, reproduced in LICENSE.
+
+Original copyright holders and license notices are retained in LICENSE and
+copied source comments (including the theme's lyrio-dev/ui attribution).
+The ZZU XCPC DB data model and SRK synchronization scripts are project-specific.

@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "merges": [
+    {
+      "eventKey": "[\"2025CCPC全国邀请赛（郑州）暨第七届河南省赛\",\"2025-06-02\"]",
+      "canonicalId": "ed44888ed8edd53a",
+      "canonicalSourceFile": "official/ccpc/ccpc2025/ccpc2025invitational-zhengzhou.srk.json",
+      "duplicateSourceFiles": [
+        "official/ccpc/ccpc2025/ccpc2025invitational-zhengzhou.srk.json",
+        "official/provincial/ha/haccpc7th.srk.json"
+      ],
+      "duplicateContestIds": [
+        "ed44888ed8edd53a",
+        "44af6334450ff640"
+      ],
+      "rowCount": 7,
+      "title": "2025CCPC全国邀请赛（郑州）暨第七届河南省赛",
+      "date": "2025-06-02"
+    },
+    {
+      "eventKey": "[\"2026 年 ICPC 国际大学生程序设计竞赛全国邀请赛（武汉）暨湖北省赛\",\"2026-05-17\"]",
+      "canonicalId": "1adcb049f6dcdef1",
+      "canonicalSourceFile": "official/icpc/icpc2026/icpc2026invitational-wuhan.srk.json",
+      "duplicateSourceFiles": [
+        "official/icpc/icpc2026/icpc2026invitational-wuhan.srk.json",
+        "official/provincial/hb/hbcpc7th.srk.json"
+      ],
+      "duplicateContestIds": [
+        "1adcb049f6dcdef1",
+        "5f8731b5b79e38fe"
+      ],
+      "rowCount": 1,
+      "title": "2026 年 ICPC 国际大学生程序设计竞赛全国邀请赛（武汉）暨湖北省赛",
+      "date": "2026-05-17"
+    },
+    {
+      "eventKey": "[\"2026 CCPC 中国大学生程序设计竞赛全国邀请赛（贵州）暨贵州省赛\",\"2026-06-07\"]",
+      "canonicalId": "56163d08a0353166",
+      "canonicalSourceFile": "official/ccpc/ccpc2026/ccpc2026invitational-guizhou.srk.json",
+      "duplicateSourceFiles": [
+        "official/ccpc/ccpc2026/ccpc2026invitational-guizhou.srk.json",
+        "official/provincial/gz/gzccpc2026.srk.json"
+      ],
+      "duplicateContestIds": [
+        "56163d08a0353166",
+        "85cc4166b8f0c038"
+      ],
+      "rowCount": 2,
+      "title": "2026 CCPC 中国大学生程序设计竞赛全国邀请赛（贵州）暨贵州省赛",
+      "date": "2026-06-07"
+    }
+  ]
+}

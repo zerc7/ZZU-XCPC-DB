@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <script>
+      try {
+        document.documentElement.dataset.theme =
+          localStorage.getItem("zzu-xcpc-theme") === "dark" ? "dark" : "light";
+      } catch {}
+    </script>
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="description" content="郑州大学 XCPC 比赛与选手档案" />
+    <title>ZZU XCPC DB</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
