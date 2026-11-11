@@ -19,7 +19,15 @@ function ContestDetail({ data }) {
         {c.title}
       </Header>
       <p className="muted">
-        {c.date} · {c.categories.join(" / ")} ·{" "}
+        {c.date} ·{" "}
+        <span className="contest-category-list">
+          {c.categories.map((category) => (
+            <span className="category-tag" key={category}>
+              {category}
+            </span>
+          ))}
+        </span>{" "}
+        ·{" "}
         <a href={c.source} target="_blank" rel="noreferrer">
           在 RankLand 查看原榜单 ↗
         </a>

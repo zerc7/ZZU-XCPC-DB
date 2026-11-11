@@ -2,9 +2,35 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
 import { Link, useSearchParams } from "react-router-dom";
 import { Button, Dropdown, Header, Table } from "semantic-ui-react";
+import {
+  Chart as ChartJS,
+  CategoryScale,
+  LinearScale,
+  PointElement,
+  LineElement,
+  Title,
+  Tooltip,
+  Legend,
+} from "chart.js";
+import { Line } from "react-chartjs-2";
 import Pager from "../components/Pagination";
 
 const PAGE_SIZE = 30;
+const MEDALS = [
+  { level: "gold", label: "金牌", color: "--app-award-gold" },
+  { level: "silver", label: "银牌", color: "--app-award-silver" },
+  { level: "bronze", label: "铜牌", color: "--app-award-bronze" },
+];
+
+ChartJS.register(
+  CategoryScale,
+  LinearScale,
+  PointElement,
+  LineElement,
+  Title,
+  Tooltip,
+  Legend,
+);
 
 function Awards({ data }) {
   const [params, setParams] = useSearchParams();
@@ -39,6 +65,49 @@ function Awards({ data }) {
   const awards = [...new Set(rows.map((row) => row.award))].sort();
   const year = params.get("year") || "";
   const award = params.get("award") || "";
+
+  const medalTrend = useMemo(() => {
+    const counts = new Map();
+    rows.forEach((row) => {
+      const matchesCategories =
+        selectedCategories.length === 0 ||
+        (categoryMode === "all"
+          ? selectedCategories.every((category) =>
+              row.categories.includes(category),
+            )
+          : selectedCategories.some((category) =>
+              row.categories.includes(category),
+            ));
+      const rowYear = row.date?.slice(0, 4);
+      if (!matchesCategories || !/^\d{4}$/.test(rowYear)) return;
+
+      const medalCounts = counts.get(rowYear) || {
+        gold: 0,
+        silver: 0,
+        bronze: 0,
+      };
+      if (Object.hasOwn(medalCounts, row.awardLevel)) {
+        medalCounts[row.awardLevel] += 1;
+        counts.set(rowYear, medalCounts);
+      }
+    });
+
+    const labels = [...counts.keys()].sort();
+    return {
+      labels,
+      datasets: MEDALS.map(({ level, label, color }) => ({
+        label,
+        data: labels.map((item) => counts.get(item)[level]),
+        borderColor: getComputedStyle(document.documentElement)
+          .getPropertyValue(color)
+          .trim(),
+        backgroundColor: getComputedStyle(document.documentElement)
+          .getPropertyValue(color)
+          .trim(),
+        tension: 0.25,
+      })),
+    };
+  }, [categoryMode, rows, selectedCategories]);
 
   const filtered = rows.filter((row) => {
     const matchesCategories =
@@ -80,6 +149,39 @@ function Awards({ data }) {
       <Header as="h2" dividing>
         获奖信息
       </Header>
+      <section className="award-trend" aria-label="年度奖牌趋势">
+        <Header as="h3">年度奖牌趋势</Header>
+        <div className="award-trend-chart">
+          {medalTrend.labels.length ? (
+            <Line
+              data={medalTrend}
+              options={{
+                responsive: true,
+                maintainAspectRatio: false,
+                interaction: { mode: "index", intersect: false },
+                plugins: {
+                  legend: { position: "top" },
+                  tooltip: { mode: "index", intersect: false },
+                },
+                scales: {
+                  x: {
+                    title: { display: true, text: "年份" },
+                    grid: { color: "rgba(128, 128, 128, 0.15)" },
+                  },
+                  y: {
+                    beginAtZero: true,
+                    ticks: { precision: 0 },
+                    title: { display: true, text: "获奖队伍数" },
+                    grid: { color: "rgba(128, 128, 128, 0.15)" },
+                  },
+                },
+              }}
+            />
+          ) : (
+            <p className="empty">当前类别下没有可统计的奖牌赛果。</p>
+          )}
+        </div>
+      </section>
       <div className="list-tools">
         <input
           className="search-input"
@@ -183,7 +285,7 @@ function Awards({ data }) {
                     <span className="subtle">{row.date}</span>
                     <span className="award-category-list">
                       {row.categories.map((category) => (
-                        <span className="award-category" key={category}>
+                        <span className="category-tag" key={category}>
                           {category}
                         </span>
                       ))}

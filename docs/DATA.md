@@ -106,16 +106,16 @@ normalizeAward 优先使用 style，其次匹配奖项文本；未知奖项原�
 
 ## 5. 多类别
 
-classifyContest 根据 sourceFile 和 contest 文本推断：
+classifyContest 根据 sourceFile 和 contest 文本推断，多条规则可同时命中：
 
 - ICPC/ACM → ICPC；CCPC → CCPC；
-- provincial、省赛、省大学生 → 省赛；
-- online、preliminary、网络、线上 → 线上赛；
-- final、总决赛、决赛 → 决赛；
-- 女生、women → 女子赛；invitational、邀请赛 → 邀请赛；
+- regional、区域赛 → 区域赛；Asia regionals、亚洲区域 → 亚洲区域赛；能从中文区域赛站名或英文亚洲分站标题识别地点时，额外生成“区域赛-武汉站”一类的地点标签；
+- 区域赛同时属于线上赛时增加“区域赛线上赛”；预选赛单独标记为“预选赛”；
+- provincial、省赛、省大学生 → 省赛；online、preliminary、网络、线上 → 线上赛；
+- final、总决赛、决赛 → 决赛；女生、women → 女子赛；invitational、邀请赛 → 邀请赛；
 - 完全未命中 → 其他。
 
-不同条件独立判断，所以同一比赛可属于 ICPC、邀请赛、省赛等多个类别。它是启发式分类，不是完整的官方赛事分类表。
+类别规则不会只选一个结果。例如线上的 ICPC 亚洲区域赛可同时拥有 ICPC、区域赛、亚洲区域赛、线上赛和区域赛线上赛类别。地点提取依赖比赛标题格式，无法可靠识别的地点不会生成地点标签。这些规则是启发式分类，不是完整的官方赛事分类表。
 
 目前 clean-data 无条件重算 categories，直接改 JSON 数组会在完整构建时被覆盖。持久调整应修改 classifyContest；如要做赛事级手工分类，可后续新增独立 overrides 文件并在生成阶段应用。项目当前尚未实现 overrides 功能。
 

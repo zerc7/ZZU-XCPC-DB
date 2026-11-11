@@ -87,6 +87,22 @@ body {
 .award-category-list {
   flex-wrap: wrap;
 }
+.contest-category-list {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  vertical-align: middle;
+}
+.category-tag {
+  display: inline-block;
+  padding: 1px 6px;
+  border: 1px solid var(--theme-border);
+  border-radius: 3px;
+  color: var(--theme-footer);
+  font-size: 11px;
+  line-height: 1.5;
+  white-space: nowrap;
+}
 .award-category {
   color: var(--theme-footer);
   font-size: 12px;
@@ -135,6 +151,17 @@ body {
 }
 .award-neutral {
   color: var(--theme-footer);
+}
+.award-trend {
+  margin: 0 0 26px;
+}
+.award-trend-chart {
+  position: relative;
+  height: 320px;
+  max-width: 100%;
+}
+.award-trend-chart .empty {
+  padding: 48px 12px;
 }
 .note {
   margin: 18px 0;

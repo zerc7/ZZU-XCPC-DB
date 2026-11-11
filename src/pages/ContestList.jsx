@@ -99,7 +99,15 @@ function ContestList({ data }) {
                 <Table.Cell>
                   <Link to={`/contests/${c.id}`}>{c.title}</Link>
                 </Table.Cell>
-                <Table.Cell>{c.categories.join(" / ")}</Table.Cell>
+                <Table.Cell>
+                  <span className="contest-category-list">
+                    {c.categories.map((category) => (
+                      <span className="category-tag" key={category}>
+                        {category}
+                      </span>
+                    ))}
+                  </span>
+                </Table.Cell>
                 <Table.Cell>{c.date}</Table.Cell>
                 <Table.Cell>{c.entries.length}</Table.Cell>
                 <Table.Cell>

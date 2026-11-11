@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 1,
-    "generatedAt": "2026-11-08T12:49:28.434Z"
+    "generatedAt": "2026-11-11T12:58:42.448Z"
   },
   "contests": [
     {
@@ -10,7 +10,9 @@
       "year": 2026,
       "date": "2026-11-08",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "区域赛",
+        "区域赛-南京站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2026nanjing",
       "note": "",
@@ -40,7 +42,9 @@
       "year": 2026,
       "date": "2026-11-01",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "区域赛",
+        "区域赛-武汉站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2026wuhan",
       "note": "",
@@ -112,7 +116,9 @@
       "year": 2026,
       "date": "2026-10-25",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "区域赛",
+        "区域赛-成都站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2026chengdu",
       "note": "",
@@ -183,7 +189,9 @@
       "year": 2026,
       "date": "2026-10-18",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "区域赛",
+        "区域赛-西安站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2026xi_an",
       "note": "",
@@ -214,7 +222,8 @@
       "date": "2026-09-19",
       "categories": [
         "CCPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=ccpc2026preliminary",
       "note": "",
@@ -300,7 +309,8 @@
       "date": "2026-09-12",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2026preliminary-2",
       "note": "",
@@ -485,7 +495,8 @@
       "date": "2026-09-06",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2026preliminary-1",
       "note": "",
@@ -1236,7 +1247,9 @@
       "year": 2025,
       "date": "2025-11-23",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "区域赛",
+        "区域赛-上海站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2025shanghai",
       "note": "",
@@ -1277,7 +1290,9 @@
       "year": 2025,
       "date": "2025-11-16",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "区域赛",
+        "区域赛-沈阳站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2025shenyang",
       "note": "",
@@ -1348,7 +1363,9 @@
       "year": 2025,
       "date": "2025-11-09",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "区域赛",
+        "区域赛-南京站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2025nanjing",
       "note": "",
@@ -1408,7 +1425,9 @@
       "year": 2025,
       "date": "2025-11-02",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "区域赛",
+        "区域赛-武汉站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2025wuhan",
       "note": "",
@@ -1449,7 +1468,9 @@
       "year": 2025,
       "date": "2025-10-26",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "区域赛",
+        "区域赛-成都站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2025chengdu",
       "note": "",
@@ -1510,7 +1531,10 @@
       "year": 2025,
       "date": "2025-10-19",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-西安站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2025xi_an",
       "note": "",
@@ -1541,7 +1565,8 @@
       "date": "2025-09-20",
       "categories": [
         "CCPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=ccpc2025preliminary",
       "note": "",
@@ -1627,7 +1652,8 @@
       "date": "2025-09-14",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2025preliminary-2",
       "note": "",
@@ -1713,7 +1739,8 @@
       "date": "2025-09-07",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2025preliminary-1",
       "note": "",
@@ -2227,7 +2254,9 @@
       "year": 2024,
       "date": "2024-12-01",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "区域赛",
+        "区域赛-昆明站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2024kunming",
       "note": "",
@@ -2257,7 +2286,9 @@
       "year": 2024,
       "date": "2024-11-24",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "区域赛",
+        "区域赛-沈阳站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2024shenyang",
       "note": "",
@@ -2328,7 +2359,9 @@
       "year": 2024,
       "date": "2024-11-17",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "区域赛",
+        "区域赛-上海站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2024shanghai",
       "note": "",
@@ -2388,7 +2421,9 @@
       "year": 2024,
       "date": "2024-11-10",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "区域赛",
+        "区域赛-杭州站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2024hangzhou",
       "note": "",
@@ -2418,7 +2453,9 @@
       "year": 2024,
       "date": "2024-11-03",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "区域赛",
+        "区域赛-南京站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2024nanjing",
       "note": "",
@@ -2509,7 +2546,9 @@
       "year": 2024,
       "date": "2024-10-27",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "区域赛",
+        "区域赛-成都站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2024chengdu",
       "note": "",
@@ -2570,7 +2609,11 @@
       "date": "2024-09-21",
       "categories": [
         "ICPC",
-        "线上赛"
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛线上赛",
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2024preliminary-2",
       "note": "",
@@ -2645,7 +2688,11 @@
       "date": "2024-09-15",
       "categories": [
         "ICPC",
-        "线上赛"
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛线上赛",
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2024preliminary-1",
       "note": "",
@@ -2720,7 +2767,8 @@
       "date": "2024-09-08",
       "categories": [
         "CCPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=ccpc2024preliminary",
       "note": "",
@@ -3201,7 +3249,10 @@
       "year": 2023,
       "date": "2023-12-10",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-杭州站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2023hangzhou",
       "note": "",
@@ -3231,7 +3282,10 @@
       "year": 2023,
       "date": "2023-12-03",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-济南站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2023jinan",
       "note": "",
@@ -3261,7 +3315,9 @@
       "year": 2023,
       "date": "2023-11-26",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2023hefei",
       "note": "",
@@ -3302,7 +3358,10 @@
       "year": 2023,
       "date": "2023-11-12",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-沈阳站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2023shenyang",
       "note": "",
@@ -3362,7 +3421,10 @@
       "year": 2023,
       "date": "2023-11-05",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-南京站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2023nanjing",
       "note": "",
@@ -3463,7 +3525,9 @@
       "year": 2023,
       "date": "2023-10-22",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2023xi_an",
       "note": "",
@@ -3538,7 +3602,11 @@
       "date": "2023-09-23",
       "categories": [
         "ICPC",
-        "线上赛"
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛线上赛",
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2023preliminary-2",
       "note": "",
@@ -3602,7 +3670,11 @@
       "date": "2023-09-17",
       "categories": [
         "ICPC",
-        "线上赛"
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛线上赛",
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2023preliminary-1",
       "note": "",
@@ -3666,7 +3738,8 @@
       "date": "2023-08-20",
       "categories": [
         "CCPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=ccpc2023preliminary",
       "note": "",
@@ -3868,7 +3941,10 @@
       "year": 2023,
       "date": "2023-01-14",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-香港站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2022hongkong",
       "note": "",
@@ -3901,7 +3977,10 @@
       "year": 2022,
       "date": "2022-12-18",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-南京站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2022nanjing",
       "note": "",
@@ -3942,7 +4021,10 @@
       "year": 2022,
       "date": "2022-12-04",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-杭州站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2022hangzhou",
       "note": "",
@@ -3994,7 +4076,10 @@
       "year": 2022,
       "date": "2022-11-27",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-济南站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2022jinan",
       "note": "",
@@ -4046,7 +4131,9 @@
       "year": 2022,
       "date": "2022-11-20",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2022hefei",
       "note": "",
@@ -4139,7 +4226,9 @@
       "year": 2022,
       "date": "2022-11-13",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2022xi_an",
       "note": "",
@@ -4232,7 +4321,10 @@
       "year": 2022,
       "date": "2022-11-06",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-沈阳站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2022shenyang",
       "note": "",
@@ -4416,7 +4508,11 @@
       "date": "2022-09-25",
       "categories": [
         "ICPC",
-        "线上赛"
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛线上赛",
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2022preliminary-2",
       "note": "",
@@ -4533,7 +4629,11 @@
       "date": "2022-09-17",
       "categories": [
         "ICPC",
-        "线上赛"
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛线上赛",
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2022preliminary-1",
       "note": "",
@@ -4619,7 +4719,8 @@
       "date": "2022-09-11",
       "categories": [
         "CCPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=ccpc2022preliminary",
       "note": "",
@@ -4700,7 +4801,10 @@
       "year": 2022,
       "date": "2022-04-17",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-昆明站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2021kunming",
       "note": "",
@@ -4818,7 +4922,10 @@
       "year": 2021,
       "date": "2021-12-04",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-南京站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2021nanjing",
       "note": "",
@@ -4881,7 +4988,10 @@
       "year": 2021,
       "date": "2021-11-28",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-上海站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2021shanghai",
       "note": "",
@@ -4969,7 +5079,10 @@
       "year": 2021,
       "date": "2021-11-21",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-沈阳站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2021shenyang",
       "note": "",
@@ -5057,7 +5170,10 @@
       "year": 2021,
       "date": "2021-11-14",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-济南站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2021jinan",
       "note": "",
@@ -5397,7 +5513,9 @@
       "year": 2021,
       "date": "2021-07-18",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "区域赛",
+        "区域赛-沈阳站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2020shenyang",
       "note": "",
@@ -5503,7 +5621,9 @@
       "year": 2021,
       "date": "2021-05-16",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "区域赛",
+        "区域赛-银川站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2020yinchuan",
       "note": "",
@@ -5592,6 +5712,10 @@
       "date": "2021-04-03",
       "categories": [
         "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-昆明站",
+        "区域赛线上赛",
         "线上赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2020kunming",
@@ -5652,6 +5776,10 @@
       "date": "2020-12-27",
       "categories": [
         "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-济南站",
+        "区域赛线上赛",
         "线上赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2020jinan",
@@ -5705,6 +5833,10 @@
       "date": "2020-12-20",
       "categories": [
         "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-南京站",
+        "区域赛线上赛",
         "线上赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2020nanjing",
@@ -5769,6 +5901,10 @@
       "date": "2020-12-13",
       "categories": [
         "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-上海站",
+        "区域赛线上赛",
         "线上赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2020shanghai",
@@ -6169,7 +6305,8 @@
       "date": "2020-10-31",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2020preliminary-xiaomi-2",
       "note": "",
@@ -6305,7 +6442,8 @@
       "date": "2020-10-25",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2020preliminary-xiaomi-1",
       "note": "",
@@ -6489,7 +6627,10 @@
       "year": 2019,
       "date": "2019-11-24",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-上海站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2019shanghai",
       "note": "",
@@ -6515,7 +6656,9 @@
       "year": 2019,
       "date": "2019-11-17",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "区域赛",
+        "区域赛-沈阳站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2019shenyang",
       "note": "",
@@ -6579,7 +6722,9 @@
       "year": 2019,
       "date": "2019-11-10",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "区域赛",
+        "区域赛-南昌站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2019nanchang",
       "note": "",
@@ -6626,7 +6771,10 @@
       "year": 2019,
       "date": "2019-11-03",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-徐州站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2019xuzhou",
       "note": "",
@@ -6659,7 +6807,10 @@
       "year": 2019,
       "date": "2019-10-27",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-南京站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2019nanjing",
       "note": "",
@@ -6740,7 +6891,9 @@
       "year": 2019,
       "date": "2019-10-20",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "区域赛",
+        "区域赛-银川站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2019yinchuan",
       "note": "",
@@ -6954,7 +7107,10 @@
       "year": 2018,
       "date": "2018-11-25",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-焦作站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2018jiaozuo",
       "note": "",
@@ -6994,7 +7150,10 @@
       "year": 2018,
       "date": "2018-11-04",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-青岛站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2018qingdao",
       "note": "",
@@ -7057,7 +7216,10 @@
       "year": 2018,
       "date": "2018-10-28",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-徐州站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2018xuzhou",
       "note": "",
@@ -7090,7 +7252,10 @@
       "year": 2018,
       "date": "2018-10-21",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-沈阳站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2018shenyang",
       "note": "",
@@ -7116,7 +7281,10 @@
       "year": 2018,
       "date": "2018-10-14",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-南京站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2018nanjing",
       "note": "",
@@ -7236,7 +7404,9 @@
       "year": 2017,
       "date": "2017-11-26",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "区域赛",
+        "区域赛-南宁站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2017nanning",
       "note": "",
@@ -7269,7 +7439,9 @@
       "year": 2017,
       "date": "2017-11-19",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "区域赛",
+        "区域赛-北京站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2017beijing",
       "note": "",
@@ -7295,7 +7467,10 @@
       "year": 2017,
       "date": "2017-11-05",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-青岛站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2017qingdao",
       "note": "",
@@ -7358,7 +7533,10 @@
       "year": 2017,
       "date": "2017-10-29",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "亚洲区域赛",
+        "区域赛",
+        "区域赛-西安站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2017xi_an",
       "note": "",
@@ -7491,7 +7669,9 @@
       "year": 2016,
       "date": "2016-11-13",
       "categories": [
-        "ICPC"
+        "ICPC",
+        "区域赛",
+        "区域赛-青岛站"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2016qingdao",
       "note": "",
@@ -7565,7 +7745,8 @@
       "date": "2016-09-18",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2016preliminary-shenyang",
       "note": "",
@@ -7606,7 +7787,8 @@
       "date": "2016-09-17",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2016preliminary-qingdao",
       "note": "",
@@ -7661,7 +7843,8 @@
       "date": "2016-09-10",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2016preliminary-dalian",
       "note": "",
@@ -7735,7 +7918,8 @@
       "date": "2016-09-01",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2016preliminary-cuhk",
       "note": "",
@@ -7987,7 +8171,8 @@
       "date": "2015-09-27",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2015preliminary-hefei",
       "note": "",
@@ -8035,7 +8220,8 @@
       "date": "2015-09-26",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2015preliminary-shanghai",
       "note": "",
@@ -8083,7 +8269,8 @@
       "date": "2015-09-20",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2015preliminary-beijing",
       "note": "",
@@ -8110,7 +8297,8 @@
       "date": "2015-09-19",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2015preliminary-shenyang",
       "note": "",
@@ -8151,7 +8339,8 @@
       "date": "2015-09-13",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2015preliminary-changchun",
       "note": "",
@@ -8296,7 +8485,8 @@
       "date": "2014-09-27",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2014preliminary-shanghai",
       "note": "",
@@ -8337,7 +8527,8 @@
       "date": "2014-09-21",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2014preliminary-beijing",
       "note": "",
@@ -8406,7 +8597,8 @@
       "date": "2014-09-20",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2014preliminary-guangzhou",
       "note": "",
@@ -8454,7 +8646,8 @@
       "date": "2014-09-14",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2014preliminary-xi_an",
       "note": "",
@@ -8509,7 +8702,8 @@
       "date": "2014-09-13",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2014preliminary-anshan",
       "note": "",
@@ -8578,7 +8772,8 @@
       "date": "2014-09-07",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2014preliminary-mudanjiang",
       "note": "",
@@ -8730,7 +8925,8 @@
       "date": "2013-09-28",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2013preliminary-changchun",
       "note": "",
@@ -8771,7 +8967,8 @@
       "date": "2013-09-22",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2013preliminary-changsha",
       "note": "",
@@ -8819,7 +9016,8 @@
       "date": "2013-09-21",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2013preliminary-nanjing",
       "note": "",
@@ -8867,7 +9065,8 @@
       "date": "2013-09-15",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2013preliminary-hangzhou",
       "note": "",
@@ -8908,7 +9107,8 @@
       "date": "2013-09-14",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2013preliminary-chengdu",
       "note": "",
@@ -9076,7 +9276,8 @@
       "date": "2012-09-23",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2012preliminary-hangzhou",
       "note": "",
@@ -9117,7 +9318,8 @@
       "date": "2012-09-22",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2012preliminary-jinhua",
       "note": "",
@@ -9151,7 +9353,8 @@
       "date": "2012-09-16",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2012preliminary-chengdu",
       "note": "",
@@ -9213,7 +9416,8 @@
       "date": "2012-09-09",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2012preliminary-tianjin",
       "note": "",
@@ -9247,7 +9451,8 @@
       "date": "2012-09-08",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2012preliminary-changchun",
       "note": "",
@@ -9288,7 +9493,8 @@
       "date": "2012-09-01",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2012preliminary-ccniit",
       "note": "",
@@ -9409,7 +9615,8 @@
       "date": "2011-10-07",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2011preliminary-fuzhou",
       "note": "",
@@ -9457,7 +9664,8 @@
       "date": "2011-09-18",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2011preliminary-beijing",
       "note": "",
@@ -9505,7 +9713,8 @@
       "date": "2011-09-11",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2011preliminary-chengdu",
       "note": "",
@@ -9574,7 +9783,8 @@
       "date": "2011-09-10",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2011preliminary-shanghai",
       "note": "",
@@ -9650,7 +9860,8 @@
       "date": "2011-09-03",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2011preliminary-dalian",
       "note": "",
@@ -9691,7 +9902,8 @@
       "date": "2010-10-10",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2010preliminary-fuzhou",
       "note": "",
@@ -9739,7 +9951,8 @@
       "date": "2010-09-19",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2010preliminary-hangzhou",
       "note": "",
@@ -9801,7 +10014,8 @@
       "date": "2010-09-18",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2010preliminary-chengdu",
       "note": "",
@@ -9856,7 +10070,8 @@
       "date": "2010-09-12",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2010preliminary-tianjin",
       "note": "",
@@ -9897,7 +10112,8 @@
       "date": "2010-09-11",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2010preliminary-harbin",
       "note": "",
@@ -9945,7 +10161,8 @@
       "date": "2009-09-11",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2009preliminary-harbin",
       "note": "",
@@ -10014,7 +10231,8 @@
       "date": "2009-09-11",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2009preliminary-hefei",
       "note": "",
@@ -10062,7 +10280,8 @@
       "date": "2009-09-11",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2009preliminary-ningbo",
       "note": "",
@@ -10117,7 +10336,8 @@
       "date": "2009-09-11",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2009preliminary-shanghai",
       "note": "",
@@ -10186,7 +10406,8 @@
       "date": "2009-09-11",
       "categories": [
         "ICPC",
-        "线上赛"
+        "线上赛",
+        "预选赛"
       ],
       "source": "https://rl.algoux.cn/collection/official?rankId=icpc2009preliminary-wuhan",
       "note": "",
@@ -10232,7 +10453,8 @@
           "date": "2025-09-14",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "赵圣元",
           "team": "郑大队伍5",
@@ -10249,7 +10471,8 @@
           "date": "2025-09-07",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "赵圣元",
           "team": "郑大队伍5",
@@ -10282,7 +10505,9 @@
           "year": 2024,
           "date": "2024-11-17",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-上海站"
           ],
           "person": "赵圣元",
           "team": "都不玩原神",
@@ -10298,7 +10523,9 @@
           "year": 2024,
           "date": "2024-11-10",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-杭州站"
           ],
           "person": "赵圣元",
           "team": "都不玩原神",
@@ -10315,7 +10542,11 @@
           "date": "2024-09-21",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "赵圣元",
           "team": "都不玩原神",
@@ -10332,7 +10563,11 @@
           "date": "2024-09-15",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "赵圣元",
           "team": "都不玩原神",
@@ -10349,7 +10584,8 @@
           "date": "2024-09-08",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "赵圣元",
           "team": "郑大一队",
@@ -10434,7 +10670,10 @@
           "year": 2023,
           "date": "2023-12-10",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-杭州站"
           ],
           "person": "赵圣元",
           "team": "绝体绝命",
@@ -10450,7 +10689,9 @@
           "year": 2023,
           "date": "2023-11-26",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛"
           ],
           "person": "赵圣元",
           "team": "废弃车站下车之旅",
@@ -10499,7 +10740,11 @@
           "date": "2023-09-23",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "赵圣元",
           "team": "绝体绝命",
@@ -10516,7 +10761,11 @@
           "date": "2023-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "赵圣元",
           "team": "绝体绝命",
@@ -10533,7 +10782,8 @@
           "date": "2023-08-20",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "赵圣元",
           "team": "捧杯的梦想",
@@ -10583,7 +10833,10 @@
           "year": 2022,
           "date": "2022-12-18",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站"
           ],
           "person": "赵圣元",
           "team": "粉丝派对",
@@ -10615,7 +10868,10 @@
           "year": 2022,
           "date": "2022-11-06",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "赵圣元",
           "team": "粉丝派对",
@@ -10632,7 +10888,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "赵圣元",
           "team": "粉丝派对",
@@ -10649,7 +10909,11 @@
           "date": "2022-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "赵圣元",
           "team": "粉丝派对",
@@ -10666,7 +10930,8 @@
           "date": "2022-09-11",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "赵圣元",
           "team": "粉丝派对",
@@ -10698,7 +10963,10 @@
           "year": 2021,
           "date": "2021-11-14",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站"
           ],
           "person": "赵圣元",
           "team": "我失去了天堂",
@@ -10772,7 +11040,10 @@
           "year": 2023,
           "date": "2023-12-10",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-杭州站"
           ],
           "person": "邱宇",
           "team": "绝体绝命",
@@ -10788,7 +11059,9 @@
           "year": 2023,
           "date": "2023-11-26",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛"
           ],
           "person": "邱宇",
           "team": "废弃车站下车之旅",
@@ -10837,7 +11110,11 @@
           "date": "2023-09-23",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "邱宇",
           "team": "绝体绝命",
@@ -10854,7 +11131,11 @@
           "date": "2023-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "邱宇",
           "team": "绝体绝命",
@@ -10871,7 +11152,8 @@
           "date": "2023-08-20",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "邱宇",
           "team": "捧杯的梦想",
@@ -10921,7 +11203,10 @@
           "year": 2022,
           "date": "2022-12-18",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站"
           ],
           "person": "邱宇",
           "team": "发际线和我作对",
@@ -10988,7 +11273,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "邱宇",
           "team": "我从未离去",
@@ -11005,7 +11294,11 @@
           "date": "2022-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "邱宇",
           "team": "我从未离去",
@@ -11022,7 +11315,8 @@
           "date": "2022-09-11",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "邱宇",
           "team": "xcpc我劝你别打我打你别劝",
@@ -11055,7 +11349,10 @@
           "year": 2021,
           "date": "2021-12-04",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站"
           ],
           "person": "邱宇",
           "team": "沃特提姆",
@@ -11126,7 +11423,9 @@
           "year": 2024,
           "date": "2024-11-17",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-上海站"
           ],
           "person": "梁志杰",
           "team": "都不玩原神",
@@ -11142,7 +11441,9 @@
           "year": 2024,
           "date": "2024-11-10",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-杭州站"
           ],
           "person": "梁志杰",
           "team": "都不玩原神",
@@ -11159,7 +11460,11 @@
           "date": "2024-09-21",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "梁志杰",
           "team": "都不玩原神",
@@ -11176,7 +11481,11 @@
           "date": "2024-09-15",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "梁志杰",
           "team": "都不玩原神",
@@ -11193,7 +11502,8 @@
           "date": "2024-09-08",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "梁志杰",
           "team": "郑大一队",
@@ -11260,7 +11570,11 @@
           "date": "2023-09-23",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "梁志杰",
           "team": "七天速成班",
@@ -11277,7 +11591,11 @@
           "date": "2023-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "梁志杰",
           "team": "七天速成班",
@@ -11310,7 +11628,10 @@
           "year": 2022,
           "date": "2022-12-18",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站"
           ],
           "person": "梁志杰",
           "team": "粉丝派对",
@@ -11342,7 +11663,10 @@
           "year": 2022,
           "date": "2022-11-06",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "梁志杰",
           "team": "粉丝派对",
@@ -11359,7 +11683,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "梁志杰",
           "team": "粉丝派对",
@@ -11376,7 +11704,11 @@
           "date": "2022-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "梁志杰",
           "team": "粉丝派对",
@@ -11393,7 +11725,8 @@
           "date": "2022-09-11",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "梁志杰",
           "team": "粉丝派对",
@@ -11483,7 +11816,10 @@
           "year": 2023,
           "date": "2023-12-10",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-杭州站"
           ],
           "person": "古晨峰",
           "team": "绝体绝命",
@@ -11516,7 +11852,11 @@
           "date": "2023-09-23",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "古晨峰",
           "team": "绝体绝命",
@@ -11533,7 +11873,11 @@
           "date": "2023-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "古晨峰",
           "team": "绝体绝命",
@@ -11550,7 +11894,8 @@
           "date": "2023-08-20",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "古晨峰",
           "team": "捧杯的梦想",
@@ -11600,7 +11945,10 @@
           "year": 2022,
           "date": "2022-12-18",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站"
           ],
           "person": "古晨峰",
           "team": "发际线和我作对",
@@ -11649,7 +11997,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "古晨峰",
           "team": "我从未离去",
@@ -11666,7 +12018,11 @@
           "date": "2022-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "古晨峰",
           "team": "我从未离去",
@@ -11683,7 +12039,8 @@
           "date": "2022-09-11",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "古晨峰",
           "team": "xcpc我劝你别打我打你别劝",
@@ -11732,7 +12089,10 @@
           "year": 2021,
           "date": "2021-11-14",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站"
           ],
           "person": "古晨峰",
           "team": "我失去了天堂",
@@ -11807,7 +12167,9 @@
           "year": 2024,
           "date": "2024-11-17",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-上海站"
           ],
           "person": "乔培元",
           "team": "都不玩原神",
@@ -11823,7 +12185,9 @@
           "year": 2024,
           "date": "2024-11-10",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-杭州站"
           ],
           "person": "乔培元",
           "team": "都不玩原神",
@@ -11840,7 +12204,11 @@
           "date": "2024-09-21",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "乔培元",
           "team": "都不玩原神",
@@ -11857,7 +12225,11 @@
           "date": "2024-09-15",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "乔培元",
           "team": "都不玩原神",
@@ -11874,7 +12246,8 @@
           "date": "2024-09-08",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "乔培元",
           "team": "郑大一队",
@@ -11924,7 +12297,10 @@
           "year": 2023,
           "date": "2023-12-03",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站"
           ],
           "person": "乔培元",
           "team": "仲夏夜之梦",
@@ -11956,7 +12332,10 @@
           "year": 2023,
           "date": "2023-11-05",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站"
           ],
           "person": "乔培元",
           "team": "仲夏夜之梦",
@@ -11973,7 +12352,11 @@
           "date": "2023-09-23",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "乔培元",
           "team": "七天速成班",
@@ -11990,7 +12373,11 @@
           "date": "2023-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "乔培元",
           "team": "七天速成班",
@@ -12023,7 +12410,10 @@
           "year": 2022,
           "date": "2022-11-27",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站"
           ],
           "person": "乔培元",
           "team": "郑在解封",
@@ -12039,7 +12429,9 @@
           "year": 2022,
           "date": "2022-11-20",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛"
           ],
           "person": "乔培元",
           "team": "郑在解封",
@@ -12056,7 +12448,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "乔培元",
           "team": "不知道起什么队名就变成这样了",
@@ -12073,7 +12469,11 @@
           "date": "2022-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "乔培元",
           "team": "不知道起什么队名就变成这样了",
@@ -12095,7 +12495,9 @@
           "year": 2026,
           "date": "2026-11-08",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-南京站"
           ],
           "person": "陈年澎",
           "team": "何の意味",
@@ -12111,7 +12513,9 @@
           "year": 2026,
           "date": "2026-10-25",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-成都站"
           ],
           "person": "陈年澎",
           "team": "何の意味",
@@ -12144,7 +12548,8 @@
           "date": "2026-09-19",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "陈年澎",
           "team": "郑大26网络赛队伍3",
@@ -12161,7 +12566,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "陈年澎",
           "team": "郑大26网络赛队伍5",
@@ -12178,7 +12584,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "陈年澎",
           "team": "郑大26网络赛队伍5",
@@ -12246,7 +12653,9 @@
           "year": 2025,
           "date": "2025-11-23",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-上海站"
           ],
           "person": "陈年澎",
           "team": "口圭，又是电波题",
@@ -12262,7 +12671,9 @@
           "year": 2025,
           "date": "2025-11-09",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-南京站"
           ],
           "person": "陈年澎",
           "team": "口圭，又是电波题",
@@ -12279,7 +12690,8 @@
           "date": "2025-09-20",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "陈年澎",
           "team": "郑大25网络赛队伍六",
@@ -12296,7 +12708,8 @@
           "date": "2025-09-14",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "陈年澎",
           "team": "郑大队伍6",
@@ -12313,7 +12726,8 @@
           "date": "2025-09-07",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "陈年澎",
           "team": "郑大队伍6",
@@ -12370,7 +12784,9 @@
           "year": 2026,
           "date": "2026-11-08",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-南京站"
           ],
           "person": "姬冠成",
           "team": "何の意味",
@@ -12386,7 +12802,9 @@
           "year": 2026,
           "date": "2026-10-25",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-成都站"
           ],
           "person": "姬冠成",
           "team": "何の意味",
@@ -12403,7 +12821,8 @@
           "date": "2026-09-19",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "姬冠成",
           "team": "郑大26网络赛队伍3",
@@ -12420,7 +12839,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "姬冠成",
           "team": "郑大26网络赛队伍5",
@@ -12437,7 +12857,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "姬冠成",
           "team": "郑大26网络赛队伍5",
@@ -12522,7 +12943,9 @@
           "year": 2025,
           "date": "2025-11-23",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-上海站"
           ],
           "person": "姬冠成",
           "team": "口圭，又是电波题",
@@ -12538,7 +12961,9 @@
           "year": 2025,
           "date": "2025-11-09",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-南京站"
           ],
           "person": "姬冠成",
           "team": "口圭，又是电波题",
@@ -12555,7 +12980,8 @@
           "date": "2025-09-20",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "姬冠成",
           "team": "郑大25网络赛队伍六",
@@ -12572,7 +12998,8 @@
           "date": "2025-09-14",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "姬冠成",
           "team": "郑大队伍6",
@@ -12589,7 +13016,8 @@
           "date": "2025-09-07",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "姬冠成",
           "team": "郑大队伍6",
@@ -12646,7 +13074,9 @@
           "year": 2026,
           "date": "2026-11-08",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-南京站"
           ],
           "person": "毛睿",
           "team": "何の意味",
@@ -12662,7 +13092,9 @@
           "year": 2026,
           "date": "2026-10-25",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-成都站"
           ],
           "person": "毛睿",
           "team": "何の意味",
@@ -12679,7 +13111,8 @@
           "date": "2026-09-19",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "毛睿",
           "team": "郑大26网络赛队伍3",
@@ -12696,7 +13129,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "毛睿",
           "team": "郑大26网络赛队伍5",
@@ -12713,7 +13147,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "毛睿",
           "team": "郑大26网络赛队伍5",
@@ -12798,7 +13233,9 @@
           "year": 2025,
           "date": "2025-11-23",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-上海站"
           ],
           "person": "毛睿",
           "team": "口圭，又是电波题",
@@ -12814,7 +13251,9 @@
           "year": 2025,
           "date": "2025-11-09",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-南京站"
           ],
           "person": "毛睿",
           "team": "口圭，又是电波题",
@@ -12831,7 +13270,8 @@
           "date": "2025-09-20",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "毛睿",
           "team": "郑大25网络赛队伍六",
@@ -12848,7 +13288,8 @@
           "date": "2025-09-14",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "毛睿",
           "team": "郑大队伍6",
@@ -12865,7 +13306,8 @@
           "date": "2025-09-07",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "毛睿",
           "team": "郑大队伍6",
@@ -12923,7 +13365,8 @@
           "date": "2025-09-14",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "孙昱涵",
           "team": "郑大队伍5",
@@ -12940,7 +13383,8 @@
           "date": "2025-09-07",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "孙昱涵",
           "team": "郑大队伍5",
@@ -12991,7 +13435,9 @@
           "year": 2024,
           "date": "2024-11-24",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "孙昱涵",
           "team": "宇宙无敌哈基米大王",
@@ -13040,7 +13486,11 @@
           "date": "2024-09-21",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "孙昱涵",
           "team": "Tomotake Yoshino",
@@ -13057,7 +13507,11 @@
           "date": "2024-09-15",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "孙昱涵",
           "team": "Tomotake Yoshino",
@@ -13074,7 +13528,8 @@
           "date": "2024-09-08",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "孙昱涵",
           "team": "郑大三队",
@@ -13143,7 +13598,11 @@
           "date": "2023-09-23",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "孙昱涵",
           "team": "被抛弃的大专勇士",
@@ -13160,7 +13619,11 @@
           "date": "2023-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "孙昱涵",
           "team": "被抛弃的大专勇士",
@@ -13233,7 +13696,9 @@
           "year": 2024,
           "date": "2024-11-03",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-南京站"
           ],
           "person": "罗飞云",
           "team": "历史为什么选择了黄前久美子",
@@ -13249,7 +13714,9 @@
           "year": 2024,
           "date": "2024-10-27",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-成都站"
           ],
           "person": "罗飞云",
           "team": "历史为什么选择了黄前久美子",
@@ -13282,7 +13749,11 @@
           "date": "2024-09-21",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "罗飞云",
           "team": "历史为什么选择了黄前久美子",
@@ -13299,7 +13770,11 @@
           "date": "2024-09-15",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "罗飞云",
           "team": "历史为什么选择了黄前久美子",
@@ -13316,7 +13791,8 @@
           "date": "2024-09-08",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "罗飞云",
           "team": "郑大二队",
@@ -13401,7 +13877,10 @@
           "year": 2023,
           "date": "2023-11-05",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站"
           ],
           "person": "罗飞云",
           "team": "哈哈哈哈",
@@ -13418,7 +13897,11 @@
           "date": "2023-09-23",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "罗飞云",
           "team": "黑灰化肥会挥发发灰黑讳为花飞",
@@ -13435,7 +13918,11 @@
           "date": "2023-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "罗飞云",
           "team": "黑灰化肥会挥发发灰黑讳为花飞",
@@ -13492,7 +13979,9 @@
           "year": 2024,
           "date": "2024-11-24",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "李少昆",
           "team": "宇宙无敌哈基米大王",
@@ -13541,7 +14030,11 @@
           "date": "2024-09-21",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "李少昆",
           "team": "Tomotake Yoshino",
@@ -13558,7 +14051,11 @@
           "date": "2024-09-15",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "李少昆",
           "team": "Tomotake Yoshino",
@@ -13575,7 +14072,8 @@
           "date": "2024-09-08",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "李少昆",
           "team": "郑大三队",
@@ -13644,7 +14142,11 @@
           "date": "2023-09-23",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "李少昆",
           "team": "被抛弃的大专勇士",
@@ -13661,7 +14163,11 @@
           "date": "2023-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "李少昆",
           "team": "被抛弃的大专勇士",
@@ -13677,7 +14183,9 @@
           "year": 2022,
           "date": "2022-11-20",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛"
           ],
           "person": "李少昆",
           "team": "铁华团",
@@ -13700,7 +14208,8 @@
           "date": "2025-09-14",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "吕翊加",
           "team": "郑大队伍5",
@@ -13717,7 +14226,8 @@
           "date": "2025-09-07",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "吕翊加",
           "team": "郑大队伍5",
@@ -13750,7 +14260,9 @@
           "year": 2024,
           "date": "2024-11-24",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "吕翊加",
           "team": "宇宙无敌哈基米大王",
@@ -13767,7 +14279,11 @@
           "date": "2024-09-21",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "吕翊加",
           "team": "Tomotake Yoshino",
@@ -13784,7 +14300,11 @@
           "date": "2024-09-15",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "吕翊加",
           "team": "Tomotake Yoshino",
@@ -13801,7 +14321,8 @@
           "date": "2024-09-08",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "吕翊加",
           "team": "郑大三队",
@@ -13870,7 +14391,11 @@
           "date": "2023-09-23",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "吕翊加",
           "team": "被抛弃的大专勇士",
@@ -13887,7 +14412,11 @@
           "date": "2023-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "吕翊加",
           "team": "被抛弃的大专勇士",
@@ -13920,7 +14449,9 @@
           "year": 2022,
           "date": "2022-11-20",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛"
           ],
           "person": "吕翊加",
           "team": "铁华团",
@@ -13942,7 +14473,10 @@
           "year": 2022,
           "date": "2022-11-06",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "苏同",
           "team": "NANA",
@@ -13959,7 +14493,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "苏同",
           "team": "NANA",
@@ -13976,7 +14514,8 @@
           "date": "2022-09-11",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "苏同",
           "team": "NANA",
@@ -14041,7 +14580,9 @@
           "year": 2021,
           "date": "2021-07-18",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "苏同",
           "team": "东海为期",
@@ -14075,7 +14616,11 @@
           "date": "2020-12-13",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-上海站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "苏同",
           "team": "有被而来",
@@ -14179,7 +14724,9 @@
           "year": 2026,
           "date": "2026-10-18",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-西安站"
           ],
           "person": "唐博",
           "team": "你们都调不队",
@@ -14196,7 +14743,8 @@
           "date": "2026-09-19",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "唐博",
           "team": "郑大26网络赛队伍5",
@@ -14213,7 +14761,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "唐博",
           "team": "郑大26网络赛队伍13",
@@ -14230,7 +14779,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "唐博",
           "team": "郑大26网络赛队伍13",
@@ -14314,7 +14864,9 @@
           "year": 2025,
           "date": "2025-11-02",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-武汉站"
           ],
           "person": "唐博",
           "team": "猴子打字机",
@@ -14331,7 +14883,8 @@
           "date": "2025-09-20",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "唐博",
           "team": "郑大25网络赛队伍五",
@@ -14348,7 +14901,8 @@
           "date": "2025-09-14",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "唐博",
           "team": "郑大队伍4",
@@ -14365,7 +14919,8 @@
           "date": "2025-09-07",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "唐博",
           "team": "郑大队伍4",
@@ -14422,7 +14977,9 @@
           "year": 2026,
           "date": "2026-10-18",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-西安站"
           ],
           "person": "王朔淇",
           "team": "你们都调不队",
@@ -14439,7 +14996,8 @@
           "date": "2026-09-19",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "王朔淇",
           "team": "郑大26网络赛队伍5",
@@ -14456,7 +15014,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "王朔淇",
           "team": "郑大26网络赛队伍13",
@@ -14473,7 +15032,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "王朔淇",
           "team": "郑大26网络赛队伍13",
@@ -14557,7 +15117,9 @@
           "year": 2025,
           "date": "2025-11-02",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-武汉站"
           ],
           "person": "王朔淇",
           "team": "猴子打字机",
@@ -14574,7 +15136,8 @@
           "date": "2025-09-20",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "王朔淇",
           "team": "郑大25网络赛队伍五",
@@ -14591,7 +15154,8 @@
           "date": "2025-09-14",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "王朔淇",
           "team": "郑大队伍4",
@@ -14608,7 +15172,8 @@
           "date": "2025-09-07",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "王朔淇",
           "team": "郑大队伍4",
@@ -14665,7 +15230,9 @@
           "year": 2025,
           "date": "2025-11-02",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-武汉站"
           ],
           "person": "程申夫",
           "team": "你不笑我笑",
@@ -14681,7 +15248,9 @@
           "year": 2025,
           "date": "2025-10-26",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-成都站"
           ],
           "person": "程申夫",
           "team": "你不笑，我笑",
@@ -14698,7 +15267,8 @@
           "date": "2025-09-20",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "程申夫",
           "team": "郑大25网络赛队伍三",
@@ -14715,7 +15285,8 @@
           "date": "2025-09-14",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "程申夫",
           "team": "郑大队伍2",
@@ -14732,7 +15303,8 @@
           "date": "2025-09-07",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "程申夫",
           "team": "郑大队伍2",
@@ -14783,7 +15355,9 @@
           "year": 2024,
           "date": "2024-12-01",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-昆明站"
           ],
           "person": "程申夫",
           "team": "你不笑，我笑",
@@ -14816,7 +15390,11 @@
           "date": "2024-09-21",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "程申夫",
           "team": "你不笑，我笑",
@@ -14833,7 +15411,11 @@
           "date": "2024-09-15",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "程申夫",
           "team": "你不笑，我笑",
@@ -14850,7 +15432,8 @@
           "date": "2024-09-08",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "程申夫",
           "team": "郑大四队",
@@ -14889,7 +15472,9 @@
           "year": 2025,
           "date": "2025-11-02",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-武汉站"
           ],
           "person": "郭易哲",
           "team": "你不笑我笑",
@@ -14905,7 +15490,9 @@
           "year": 2025,
           "date": "2025-10-26",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-成都站"
           ],
           "person": "郭易哲",
           "team": "你不笑，我笑",
@@ -14956,7 +15543,9 @@
           "year": 2024,
           "date": "2024-12-01",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-昆明站"
           ],
           "person": "郭易哲",
           "team": "你不笑，我笑",
@@ -15005,7 +15594,11 @@
           "date": "2024-09-21",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "郭易哲",
           "team": "你不笑，我笑",
@@ -15022,7 +15615,11 @@
           "date": "2024-09-15",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "郭易哲",
           "team": "你不笑，我笑",
@@ -15039,7 +15636,8 @@
           "date": "2024-09-08",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "郭易哲",
           "team": "郑大四队",
@@ -15113,7 +15711,9 @@
           "year": 2025,
           "date": "2025-11-02",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-武汉站"
           ],
           "person": "刘开阳",
           "team": "你不笑我笑",
@@ -15129,7 +15729,9 @@
           "year": 2025,
           "date": "2025-10-26",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-成都站"
           ],
           "person": "刘开阳",
           "team": "你不笑，我笑",
@@ -15146,7 +15748,8 @@
           "date": "2025-09-20",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "刘开阳",
           "team": "郑大25网络赛队伍三",
@@ -15163,7 +15766,8 @@
           "date": "2025-09-14",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "刘开阳",
           "team": "郑大队伍2",
@@ -15180,7 +15784,8 @@
           "date": "2025-09-07",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "刘开阳",
           "team": "郑大队伍2",
@@ -15231,7 +15836,9 @@
           "year": 2024,
           "date": "2024-12-01",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-昆明站"
           ],
           "person": "刘开阳",
           "team": "你不笑，我笑",
@@ -15264,7 +15871,11 @@
           "date": "2024-09-21",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "刘开阳",
           "team": "你不笑，我笑",
@@ -15281,7 +15892,11 @@
           "date": "2024-09-15",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "刘开阳",
           "team": "你不笑，我笑",
@@ -15298,7 +15913,8 @@
           "date": "2024-09-08",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "刘开阳",
           "team": "郑大四队",
@@ -15337,7 +15953,9 @@
           "year": 2025,
           "date": "2025-11-23",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-上海站"
           ],
           "person": "徐钧杰",
           "team": "芙宁娜的小蛋糕",
@@ -15353,7 +15971,9 @@
           "year": 2025,
           "date": "2025-11-16",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "徐钧杰",
           "team": "芙宁娜的小蛋糕",
@@ -15370,7 +15990,8 @@
           "date": "2025-09-20",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "徐钧杰",
           "team": "郑大25网络赛队伍四",
@@ -15387,7 +16008,8 @@
           "date": "2025-09-14",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "徐钧杰",
           "team": "郑大队伍3",
@@ -15404,7 +16026,8 @@
           "date": "2025-09-07",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "徐钧杰",
           "team": "郑大队伍3",
@@ -15472,7 +16095,11 @@
           "date": "2024-09-21",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "徐钧杰",
           "team": "奇妙冒险之旅",
@@ -15489,7 +16116,11 @@
           "date": "2024-09-15",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "徐钧杰",
           "team": "奇妙冒险之旅",
@@ -15506,7 +16137,8 @@
           "date": "2024-09-08",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "徐钧杰",
           "team": "郑大五队",
@@ -15562,7 +16194,9 @@
           "year": 2025,
           "date": "2025-11-23",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-上海站"
           ],
           "person": "杨光",
           "team": "芙宁娜的小蛋糕",
@@ -15578,7 +16212,9 @@
           "year": 2025,
           "date": "2025-11-16",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "杨光",
           "team": "芙宁娜的小蛋糕",
@@ -15595,7 +16231,8 @@
           "date": "2025-09-20",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "杨光",
           "team": "郑大25网络赛队伍四",
@@ -15612,7 +16249,8 @@
           "date": "2025-09-14",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "杨光",
           "team": "郑大队伍3",
@@ -15629,7 +16267,8 @@
           "date": "2025-09-07",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "杨光",
           "team": "郑大队伍3",
@@ -15697,7 +16336,11 @@
           "date": "2024-09-21",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "杨光",
           "team": "奇妙冒险之旅",
@@ -15714,7 +16357,11 @@
           "date": "2024-09-15",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "杨光",
           "team": "奇妙冒险之旅",
@@ -15731,7 +16378,8 @@
           "date": "2024-09-08",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "杨光",
           "team": "郑大五队",
@@ -15838,7 +16486,9 @@
           "year": 2025,
           "date": "2025-11-16",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "周政",
           "team": "样例没过但ac",
@@ -15854,7 +16504,10 @@
           "year": 2025,
           "date": "2025-10-19",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-西安站"
           ],
           "person": "周政",
           "team": "样例没过去但ac",
@@ -15871,7 +16524,8 @@
           "date": "2025-09-20",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "周政",
           "team": "郑大25网络赛队伍二",
@@ -15888,7 +16542,8 @@
           "date": "2025-09-14",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "周政",
           "team": "郑大队伍1",
@@ -15905,7 +16560,8 @@
           "date": "2025-09-07",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "周政",
           "team": "郑大队伍1",
@@ -16014,7 +16670,9 @@
           "year": 2025,
           "date": "2025-11-23",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-上海站"
           ],
           "person": "朱锦昊",
           "team": "芙宁娜的小蛋糕",
@@ -16030,7 +16688,9 @@
           "year": 2025,
           "date": "2025-11-16",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "朱锦昊",
           "team": "芙宁娜的小蛋糕",
@@ -16047,7 +16707,8 @@
           "date": "2025-09-20",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "朱锦昊",
           "team": "郑大25网络赛队伍四",
@@ -16064,7 +16725,8 @@
           "date": "2025-09-14",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "朱锦昊",
           "team": "郑大队伍3",
@@ -16081,7 +16743,8 @@
           "date": "2025-09-07",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "朱锦昊",
           "team": "郑大队伍3",
@@ -16149,7 +16812,11 @@
           "date": "2024-09-21",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "朱锦昊",
           "team": "奇妙冒险之旅",
@@ -16166,7 +16833,11 @@
           "date": "2024-09-15",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "朱锦昊",
           "team": "奇妙冒险之旅",
@@ -16183,7 +16854,8 @@
           "date": "2024-09-08",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "朱锦昊",
           "team": "郑大五队",
@@ -16257,7 +16929,9 @@
           "year": 2024,
           "date": "2024-11-03",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-南京站"
           ],
           "person": "彭俊儒",
           "team": "历史为什么选择了黄前久美子",
@@ -16273,7 +16947,9 @@
           "year": 2024,
           "date": "2024-10-27",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-成都站"
           ],
           "person": "彭俊儒",
           "team": "历史为什么选择了黄前久美子",
@@ -16306,7 +16982,11 @@
           "date": "2024-09-21",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "彭俊儒",
           "team": "历史为什么选择了黄前久美子",
@@ -16323,7 +17003,11 @@
           "date": "2024-09-15",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "彭俊儒",
           "team": "历史为什么选择了黄前久美子",
@@ -16340,7 +17024,8 @@
           "date": "2024-09-08",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "彭俊儒",
           "team": "郑大二队",
@@ -16425,7 +17110,10 @@
           "year": 2023,
           "date": "2023-11-05",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站"
           ],
           "person": "彭俊儒",
           "team": "哈哈哈哈",
@@ -16464,7 +17152,10 @@
           "year": 2023,
           "date": "2023-12-03",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站"
           ],
           "person": "王亚琪",
           "team": "仲夏夜之梦",
@@ -16496,7 +17187,10 @@
           "year": 2023,
           "date": "2023-11-05",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站"
           ],
           "person": "王亚琪",
           "team": "仲夏夜之梦",
@@ -16529,7 +17223,10 @@
           "year": 2022,
           "date": "2022-12-18",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站"
           ],
           "person": "王亚琪",
           "team": "粉丝派对",
@@ -16561,7 +17258,10 @@
           "year": 2022,
           "date": "2022-11-06",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "王亚琪",
           "team": "粉丝派对",
@@ -16596,7 +17296,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "王亚琪",
           "team": "粉丝派对",
@@ -16613,7 +17317,11 @@
           "date": "2022-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "王亚琪",
           "team": "粉丝派对",
@@ -16671,7 +17379,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "封旭清",
           "team": "郑大26网络赛队伍9",
@@ -16688,7 +17397,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "封旭清",
           "team": "郑大26网络赛队伍9",
@@ -16897,7 +17607,10 @@
           "year": 2022,
           "date": "2022-11-06",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "黄笑凡",
           "team": "NANA",
@@ -16930,7 +17643,10 @@
           "year": 2021,
           "date": "2021-12-04",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站"
           ],
           "person": "黄笑凡",
           "team": "港派指压",
@@ -16963,7 +17679,11 @@
           "date": "2021-04-03",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-昆明站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "黄笑凡",
           "team": "西西弗斯",
@@ -16980,7 +17700,11 @@
           "date": "2020-12-20",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "黄笑凡",
           "team": "是可爱的团子吖",
@@ -17053,7 +17777,10 @@
           "year": 2023,
           "date": "2023-12-03",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站"
           ],
           "person": "徐政中",
           "team": "仲夏夜之梦",
@@ -17085,7 +17812,10 @@
           "year": 2023,
           "date": "2023-11-05",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站"
           ],
           "person": "徐政中",
           "team": "仲夏夜之梦",
@@ -17102,7 +17832,11 @@
           "date": "2023-09-23",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "徐政中",
           "team": "七天速成班",
@@ -17119,7 +17853,11 @@
           "date": "2023-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "徐政中",
           "team": "七天速成班",
@@ -17152,7 +17890,10 @@
           "year": 2022,
           "date": "2022-11-27",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站"
           ],
           "person": "徐政中",
           "team": "郑在解封",
@@ -17168,7 +17909,9 @@
           "year": 2022,
           "date": "2022-11-20",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛"
           ],
           "person": "徐政中",
           "team": "郑在解封",
@@ -17185,7 +17928,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "徐政中",
           "team": "不知道起什么队名就变成这样了",
@@ -17202,7 +17949,11 @@
           "date": "2022-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "徐政中",
           "team": "不知道起什么队名就变成这样了",
@@ -17275,7 +18026,9 @@
           "year": 2025,
           "date": "2025-11-16",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "薛天齐",
           "team": "样例没过但ac",
@@ -17291,7 +18044,10 @@
           "year": 2025,
           "date": "2025-10-19",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-西安站"
           ],
           "person": "薛天齐",
           "team": "样例没过去但ac",
@@ -17308,7 +18064,8 @@
           "date": "2025-09-20",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "薛天齐",
           "team": "郑大25网络赛队伍二",
@@ -17325,7 +18082,8 @@
           "date": "2025-09-14",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "薛天齐",
           "team": "郑大队伍1",
@@ -17342,7 +18100,8 @@
           "date": "2025-09-07",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "薛天齐",
           "team": "郑大队伍1",
@@ -17484,7 +18243,9 @@
           "year": 2025,
           "date": "2025-11-02",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-武汉站"
           ],
           "person": "胡宏波",
           "team": "猴子打字机",
@@ -17501,7 +18262,8 @@
           "date": "2025-09-20",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "胡宏波",
           "team": "郑大25网络赛队伍五",
@@ -17518,7 +18280,8 @@
           "date": "2025-09-14",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "胡宏波",
           "team": "郑大队伍4",
@@ -17535,7 +18298,8 @@
           "date": "2025-09-07",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "胡宏波",
           "team": "郑大队伍4",
@@ -17609,7 +18373,10 @@
           "year": 2023,
           "date": "2023-11-05",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站"
           ],
           "person": "杜金展",
           "team": "哈哈哈哈",
@@ -17658,7 +18425,10 @@
           "year": 2022,
           "date": "2022-12-04",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-杭州站"
           ],
           "person": "杜金展",
           "team": "哈哈哈哈",
@@ -17709,7 +18479,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "杜金展",
           "team": "范范是小公主",
@@ -17726,7 +18500,11 @@
           "date": "2022-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "杜金展",
           "team": "范范是小公主",
@@ -17782,7 +18560,10 @@
           "year": 2021,
           "date": "2021-12-04",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站"
           ],
           "person": "李浩",
           "team": "沃特提姆",
@@ -17831,7 +18612,11 @@
           "date": "2020-12-20",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "李浩",
           "team": "什么东西",
@@ -17903,7 +18688,9 @@
           "year": 2023,
           "date": "2023-11-26",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛"
           ],
           "person": "李自攀",
           "team": "孔乙己在流水线上哭着要回古代",
@@ -17952,7 +18739,10 @@
           "year": 2022,
           "date": "2022-12-04",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-杭州站"
           ],
           "person": "李自攀",
           "team": "青铜时代号",
@@ -17968,7 +18758,10 @@
           "year": 2022,
           "date": "2022-11-27",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站"
           ],
           "person": "李自攀",
           "team": "青铜时代号",
@@ -18003,7 +18796,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "李自攀",
           "team": "BronzeAge",
@@ -18019,7 +18816,10 @@
           "year": 2021,
           "date": "2021-11-14",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站"
           ],
           "person": "李自攀",
           "team": "致命打击",
@@ -18076,7 +18876,9 @@
           "year": 2023,
           "date": "2023-11-26",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛"
           ],
           "person": "刘贵源",
           "team": "孔乙己在流水线上哭着要回古代",
@@ -18125,7 +18927,10 @@
           "year": 2022,
           "date": "2022-12-04",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-杭州站"
           ],
           "person": "刘贵源",
           "team": "青铜时代号",
@@ -18141,7 +18946,10 @@
           "year": 2022,
           "date": "2022-11-27",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站"
           ],
           "person": "刘贵源",
           "team": "青铜时代号",
@@ -18176,7 +18984,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "刘贵源",
           "team": "BronzeAge",
@@ -18216,7 +19028,10 @@
           "year": 2022,
           "date": "2022-11-06",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "刘世纪",
           "team": "NANA",
@@ -18233,7 +19048,8 @@
           "date": "2022-09-11",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "刘世纪",
           "team": "粉丝派对",
@@ -18298,7 +19114,9 @@
           "year": 2021,
           "date": "2021-07-18",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "刘世纪",
           "team": "东海为期",
@@ -18371,7 +19189,8 @@
           "date": "2026-09-19",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "莫少杰",
           "team": "郑大26网络赛队伍4",
@@ -18388,7 +19207,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "莫少杰",
           "team": "郑大26网络赛队伍6",
@@ -18405,7 +19225,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "莫少杰",
           "team": "郑大26网络赛队伍6",
@@ -18530,7 +19351,9 @@
           "year": 2024,
           "date": "2024-11-03",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-南京站"
           ],
           "person": "曹建壮",
           "team": "历史为什么选择了黄前久美子",
@@ -18546,7 +19369,9 @@
           "year": 2024,
           "date": "2024-10-27",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-成都站"
           ],
           "person": "曹建壮",
           "team": "历史为什么选择了黄前久美子",
@@ -18579,7 +19404,11 @@
           "date": "2024-09-21",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "曹建壮",
           "team": "历史为什么选择了黄前久美子",
@@ -18596,7 +19425,11 @@
           "date": "2024-09-15",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "曹建壮",
           "team": "历史为什么选择了黄前久美子",
@@ -18613,7 +19446,8 @@
           "date": "2024-09-08",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "曹建壮",
           "team": "郑大二队",
@@ -18669,7 +19503,10 @@
           "year": 2022,
           "date": "2022-12-04",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-杭州站"
           ],
           "person": "李智宇",
           "team": "致命打击",
@@ -18685,7 +19522,10 @@
           "year": 2022,
           "date": "2022-11-06",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "李智宇",
           "team": "致命打击",
@@ -18702,7 +19542,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "李智宇",
           "team": "致命打击",
@@ -18718,7 +19562,10 @@
           "year": 2021,
           "date": "2021-12-04",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站"
           ],
           "person": "李智宇",
           "team": "一键AC",
@@ -18753,7 +19600,11 @@
           "date": "2020-12-20",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "李智宇",
           "team": "夜的向日葵",
@@ -18809,7 +19660,9 @@
           "year": 2026,
           "date": "2026-11-01",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-武汉站"
           ],
           "person": "齐家康",
           "team": "诶，云朵",
@@ -18826,7 +19679,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "齐家康",
           "team": "郑大26网络赛队伍12",
@@ -18843,7 +19697,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "齐家康",
           "team": "郑大26网络赛队伍12",
@@ -18952,7 +19807,8 @@
           "date": "2026-09-19",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "王正阳",
           "team": "郑大26网络赛队伍2",
@@ -18969,7 +19825,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "王正阳",
           "team": "郑大26网络赛队伍2",
@@ -18986,7 +19843,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "王正阳",
           "team": "郑大26网络赛队伍2",
@@ -19094,7 +19952,10 @@
           "year": 2022,
           "date": "2022-11-27",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站"
           ],
           "person": "吴程程",
           "team": "zzu_114514",
@@ -19110,7 +19971,9 @@
           "year": 2022,
           "date": "2022-11-20",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛"
           ],
           "person": "吴程程",
           "team": "半场开香槟",
@@ -19127,7 +19990,11 @@
           "date": "2022-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "吴程程",
           "team": "zzu_114514",
@@ -19144,7 +20011,8 @@
           "date": "2022-09-11",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "吴程程",
           "team": "xcpc我劝你别打我打你别劝",
@@ -19194,7 +20062,9 @@
           "year": 2021,
           "date": "2021-07-18",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "吴程程",
           "team": "保温杯里泡红牛",
@@ -19285,7 +20155,9 @@
           "year": 2025,
           "date": "2025-11-16",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "吴鑫",
           "team": "样例没过但ac",
@@ -19301,7 +20173,10 @@
           "year": 2025,
           "date": "2025-10-19",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-西安站"
           ],
           "person": "吴鑫",
           "team": "样例没过去但ac",
@@ -19318,7 +20193,8 @@
           "date": "2025-09-20",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "吴鑫",
           "team": "郑大25网络赛队伍二",
@@ -19335,7 +20211,8 @@
           "date": "2025-09-14",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "吴鑫",
           "team": "郑大队伍1",
@@ -19352,7 +20229,8 @@
           "date": "2025-09-07",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "吴鑫",
           "team": "郑大队伍1",
@@ -19374,7 +20252,9 @@
           "year": 2022,
           "date": "2022-11-20",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛"
           ],
           "person": "张东方",
           "team": "半场开香槟",
@@ -19423,7 +20303,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "张东方",
           "team": "我从未离去",
@@ -19440,7 +20324,11 @@
           "date": "2022-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "张东方",
           "team": "我从未离去",
@@ -19456,7 +20344,10 @@
           "year": 2021,
           "date": "2021-11-14",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站"
           ],
           "person": "张东方",
           "team": "我失去了天堂",
@@ -19472,7 +20363,9 @@
           "year": 2021,
           "date": "2021-07-18",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "张东方",
           "team": "保温杯里泡红牛",
@@ -19511,7 +20404,8 @@
           "date": "2026-09-19",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "张鹏宇",
           "team": "郑大26网络赛队伍4",
@@ -19528,7 +20422,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "张鹏宇",
           "team": "郑大26网络赛队伍6",
@@ -19545,7 +20440,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "张鹏宇",
           "team": "郑大26网络赛队伍6",
@@ -19671,7 +20567,10 @@
           "year": 2021,
           "date": "2021-12-04",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站"
           ],
           "person": "毕宇豪",
           "team": "一键AC",
@@ -19706,7 +20605,11 @@
           "date": "2021-04-03",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-昆明站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "毕宇豪",
           "team": "我是谁我在哪我在干嘛",
@@ -19723,7 +20626,11 @@
           "date": "2020-12-27",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "毕宇豪",
           "team": "我是谁我在哪我在干嘛",
@@ -19780,7 +20687,9 @@
           "year": 2021,
           "date": "2021-07-18",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "陈洋",
           "team": "东海为期",
@@ -19797,7 +20706,11 @@
           "date": "2020-12-13",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-上海站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "陈洋",
           "team": "有被而来",
@@ -19934,7 +20847,10 @@
           "year": 2022,
           "date": "2022-12-04",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-杭州站"
           ],
           "person": "郭孝镇",
           "team": "哈哈哈哈",
@@ -19985,7 +20901,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "郭孝镇",
           "team": "范范是小公主",
@@ -20002,7 +20922,11 @@
           "date": "2022-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "郭孝镇",
           "team": "范范是小公主",
@@ -20058,7 +20982,10 @@
           "year": 2021,
           "date": "2021-11-14",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站"
           ],
           "person": "凌鑫",
           "team": "感觉不如线下。。线上",
@@ -20093,7 +21020,11 @@
           "date": "2021-04-03",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-昆明站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "凌鑫",
           "team": "我是谁我在哪我在干嘛",
@@ -20110,7 +21041,11 @@
           "date": "2020-12-27",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "凌鑫",
           "team": "我是谁我在哪我在干嘛",
@@ -20150,7 +21085,10 @@
           "year": 2021,
           "date": "2021-12-04",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站"
           ],
           "person": "马少杰",
           "team": "沃特提姆",
@@ -20199,7 +21137,11 @@
           "date": "2021-04-03",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-昆明站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "马少杰",
           "team": "西西弗斯",
@@ -20216,7 +21158,11 @@
           "date": "2020-12-27",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "马少杰",
           "team": "关于取队名真的很难这件事",
@@ -20289,7 +21235,8 @@
           "date": "2026-09-19",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "万皓月",
           "team": "郑大26网络赛队伍2",
@@ -20306,7 +21253,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "万皓月",
           "team": "郑大26网络赛队伍2",
@@ -20323,7 +21271,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "万皓月",
           "team": "郑大26网络赛队伍2",
@@ -20571,7 +21520,11 @@
           "date": "2020-12-13",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-上海站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "张四维",
           "team": "有被而来",
@@ -20645,7 +21598,8 @@
           "date": "2026-09-19",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "崔涵博",
           "team": "郑大26网络赛队伍2",
@@ -20662,7 +21616,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "崔涵博",
           "team": "郑大26网络赛队伍2",
@@ -20679,7 +21634,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "崔涵博",
           "team": "郑大26网络赛队伍2",
@@ -20753,7 +21709,8 @@
           "date": "2026-09-19",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "侯铮",
           "team": "郑大26网络赛队伍1",
@@ -20770,7 +21727,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "侯铮",
           "team": "郑大26网络赛队伍1",
@@ -20787,7 +21745,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "侯铮",
           "team": "郑大26网络赛队伍1",
@@ -20860,7 +21819,9 @@
           "year": 2026,
           "date": "2026-11-01",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-武汉站"
           ],
           "person": "黎浩宇",
           "team": "银木",
@@ -20877,7 +21838,8 @@
           "date": "2026-09-19",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "黎浩宇",
           "team": "郑大26网络赛队伍6",
@@ -20894,7 +21856,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "黎浩宇",
           "team": "郑大26网络赛队伍8",
@@ -20911,7 +21874,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "黎浩宇",
           "team": "郑大26网络赛队伍8",
@@ -20967,7 +21931,9 @@
           "year": 2026,
           "date": "2026-11-01",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-武汉站"
           ],
           "person": "李天乐",
           "team": "银木",
@@ -20984,7 +21950,8 @@
           "date": "2026-09-19",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "李天乐",
           "team": "郑大26网络赛队伍6",
@@ -21001,7 +21968,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "李天乐",
           "team": "郑大26网络赛队伍8",
@@ -21018,7 +21986,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "李天乐",
           "team": "郑大26网络赛队伍8",
@@ -21091,7 +22060,9 @@
           "year": 2023,
           "date": "2023-11-26",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛"
           ],
           "person": "刘玥含",
           "team": "废弃车站下车之旅",
@@ -21108,7 +22079,11 @@
           "date": "2023-09-23",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "刘玥含",
           "team": "黑灰化肥会挥发发灰黑讳为花飞",
@@ -21125,7 +22100,11 @@
           "date": "2023-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "刘玥含",
           "team": "黑灰化肥会挥发发灰黑讳为花飞",
@@ -21158,7 +22137,10 @@
           "year": 2022,
           "date": "2022-12-18",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站"
           ],
           "person": "刘玥含",
           "team": "发际线和我作对",
@@ -21198,7 +22180,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "邵嘉妮",
           "team": "郑大26网络赛队伍9",
@@ -21215,7 +22198,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "邵嘉妮",
           "team": "郑大26网络赛队伍9",
@@ -21288,7 +22272,10 @@
           "year": 2022,
           "date": "2022-12-04",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-杭州站"
           ],
           "person": "申重阳",
           "team": "致命打击",
@@ -21304,7 +22291,10 @@
           "year": 2022,
           "date": "2022-11-06",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "申重阳",
           "team": "致命打击",
@@ -21339,7 +22329,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "申重阳",
           "team": "致命打击",
@@ -21355,7 +22349,10 @@
           "year": 2021,
           "date": "2021-11-14",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站"
           ],
           "person": "申重阳",
           "team": "致命打击",
@@ -21395,7 +22392,9 @@
           "year": 2026,
           "date": "2026-11-01",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-武汉站"
           ],
           "person": "王昊",
           "team": "银木",
@@ -21412,7 +22411,8 @@
           "date": "2026-09-19",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "王昊",
           "team": "郑大26网络赛队伍6",
@@ -21429,7 +22429,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "王昊",
           "team": "郑大26网络赛队伍8",
@@ -21446,7 +22447,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "王昊",
           "team": "郑大26网络赛队伍8",
@@ -21503,7 +22505,8 @@
           "date": "2026-09-19",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "吴育轩",
           "team": "郑大26网络赛队伍1",
@@ -21520,7 +22523,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "吴育轩",
           "team": "郑大26网络赛队伍1",
@@ -21537,7 +22541,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "吴育轩",
           "team": "郑大26网络赛队伍1",
@@ -21611,7 +22616,8 @@
           "date": "2026-09-19",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "武宇翔",
           "team": "郑大26网络赛队伍1",
@@ -21628,7 +22634,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "武宇翔",
           "team": "郑大26网络赛队伍1",
@@ -21645,7 +22652,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "武宇翔",
           "team": "郑大26网络赛队伍1",
@@ -21736,7 +22744,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "习瑶瑶",
           "team": "郑大26网络赛队伍9",
@@ -21753,7 +22762,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "习瑶瑶",
           "team": "郑大26网络赛队伍9",
@@ -21826,7 +22836,10 @@
           "year": 2022,
           "date": "2022-12-04",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-杭州站"
           ],
           "person": "蔡明",
           "team": "致命打击",
@@ -21842,7 +22855,10 @@
           "year": 2022,
           "date": "2022-11-27",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站"
           ],
           "person": "蔡明",
           "team": "zzu_114514",
@@ -21859,7 +22875,11 @@
           "date": "2022-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "蔡明",
           "team": "zzu_114514",
@@ -21875,7 +22895,10 @@
           "year": 2021,
           "date": "2021-11-14",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站"
           ],
           "person": "蔡明",
           "team": "格外的青",
@@ -21915,7 +22938,9 @@
           "year": 2026,
           "date": "2026-11-01",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-武汉站"
           ],
           "person": "董大森",
           "team": "诶，云朵",
@@ -21932,7 +22957,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "董大森",
           "team": "郑大26网络赛队伍12",
@@ -21949,7 +22975,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "董大森",
           "team": "郑大26网络赛队伍12",
@@ -22022,7 +23049,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "杜霖",
           "team": "郑大26网络赛队伍3",
@@ -22039,7 +23067,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "杜霖",
           "team": "郑大26网络赛队伍3",
@@ -22095,7 +23124,9 @@
           "year": 2026,
           "date": "2026-11-01",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-武汉站"
           ],
           "person": "冯锦豪",
           "team": "诶，云朵",
@@ -22112,7 +23143,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "冯锦豪",
           "team": "郑大26网络赛队伍12",
@@ -22129,7 +23161,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "冯锦豪",
           "team": "郑大26网络赛队伍12",
@@ -22186,7 +23219,11 @@
           "date": "2020-12-20",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "郭晓龙",
           "team": "什么东西",
@@ -22274,7 +23311,10 @@
           "year": 2021,
           "date": "2021-12-04",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站"
           ],
           "person": "何骏扬",
           "team": "一键AC",
@@ -22309,7 +23349,11 @@
           "date": "2020-12-20",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "何骏扬",
           "team": "线上旅游真好玩",
@@ -22366,7 +23410,8 @@
           "date": "2025-09-20",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "孔雷博",
           "team": "郑大25网络赛队伍三",
@@ -22383,7 +23428,8 @@
           "date": "2025-09-14",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "孔雷博",
           "team": "郑大队伍2",
@@ -22400,7 +23446,8 @@
           "date": "2025-09-07",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "孔雷博",
           "team": "郑大队伍2",
@@ -22457,7 +23504,10 @@
           "year": 2022,
           "date": "2022-11-06",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "李沛霖",
           "team": "致命打击",
@@ -22492,7 +23542,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "李沛霖",
           "team": "致命打击",
@@ -22508,7 +23562,10 @@
           "year": 2021,
           "date": "2021-11-14",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站"
           ],
           "person": "李沛霖",
           "team": "致命打击",
@@ -22548,7 +23605,10 @@
           "year": 2021,
           "date": "2021-12-04",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站"
           ],
           "person": "李玺",
           "team": "港派指压",
@@ -22581,7 +23641,11 @@
           "date": "2020-12-20",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "李玺",
           "team": "是可爱的团子吖",
@@ -22654,7 +23718,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "宁孜涵",
           "team": "郑大26网络赛队伍3",
@@ -22671,7 +23736,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "宁孜涵",
           "team": "郑大26网络赛队伍3",
@@ -22744,7 +23810,10 @@
           "year": 2022,
           "date": "2022-11-27",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站"
           ],
           "person": "石家华",
           "team": "郑在解封",
@@ -22760,7 +23829,9 @@
           "year": 2022,
           "date": "2022-11-20",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛"
           ],
           "person": "石家华",
           "team": "郑在解封",
@@ -22777,7 +23848,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "石家华",
           "team": "不知道起什么队名就变成这样了",
@@ -22794,7 +23869,11 @@
           "date": "2022-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "石家华",
           "team": "不知道起什么队名就变成这样了",
@@ -22907,7 +23986,9 @@
           "year": 2022,
           "date": "2022-11-20",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛"
           ],
           "person": "姚建业",
           "team": "半场开香槟",
@@ -22958,7 +24039,11 @@
           "date": "2020-12-20",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "姚建业",
           "team": "线上旅游真好玩",
@@ -23012,7 +24097,10 @@
           "year": 2021,
           "date": "2021-11-14",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站"
           ],
           "person": "余清扬",
           "team": "感觉不如线下。。线上",
@@ -23104,7 +24192,10 @@
           "year": 2022,
           "date": "2022-12-04",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-杭州站"
           ],
           "person": "张驰",
           "team": "青铜时代号",
@@ -23120,7 +24211,10 @@
           "year": 2022,
           "date": "2022-11-27",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站"
           ],
           "person": "张驰",
           "team": "青铜时代号",
@@ -23155,7 +24249,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "张驰",
           "team": "BronzeAge",
@@ -23177,7 +24275,10 @@
           "year": 2022,
           "date": "2022-12-04",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-杭州站"
           ],
           "person": "赵一丁",
           "team": "哈哈哈哈",
@@ -23210,7 +24311,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "赵一丁",
           "team": "范范是小公主",
@@ -23227,7 +24332,11 @@
           "date": "2022-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "赵一丁",
           "team": "范范是小公主",
@@ -23267,7 +24376,10 @@
           "year": 2021,
           "date": "2021-12-04",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站"
           ],
           "person": "朱凯乐",
           "team": "港派指压",
@@ -23300,7 +24412,11 @@
           "date": "2020-12-20",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "朱凯乐",
           "team": "是可爱的团子吖",
@@ -23373,7 +24489,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "卓锦威",
           "team": "郑大26网络赛队伍3",
@@ -23390,7 +24507,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "卓锦威",
           "team": "郑大26网络赛队伍3",
@@ -23447,7 +24565,11 @@
           "date": "2021-04-03",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-昆明站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "安凌翔",
           "team": "队友比赛时睡着了",
@@ -23464,7 +24586,11 @@
           "date": "2020-12-13",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-上海站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "安凌翔",
           "team": "暗夜冷锋",
@@ -23536,7 +24662,8 @@
           "date": "2026-09-19",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "陈厚陶",
           "team": "郑大26网络赛队伍4",
@@ -23553,7 +24680,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "陈厚陶",
           "team": "郑大26网络赛队伍6",
@@ -23570,7 +24698,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "陈厚陶",
           "team": "郑大26网络赛队伍6",
@@ -23627,7 +24756,8 @@
           "date": "2025-09-20",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "范伟喆",
           "team": "郑大25网络赛队伍一",
@@ -23667,7 +24797,11 @@
           "date": "2021-04-03",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-昆明站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "郭郑兴",
           "team": "队友比赛时睡着了",
@@ -23684,7 +24818,11 @@
           "date": "2020-12-13",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-上海站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "郭郑兴",
           "team": "暗夜冷锋",
@@ -23757,7 +24895,10 @@
           "year": 2021,
           "date": "2021-12-04",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站"
           ],
           "person": "李彦霖",
           "team": "说“嗨”",
@@ -23814,7 +24955,9 @@
           "year": 2023,
           "date": "2023-11-26",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛"
           ],
           "person": "刘鹏举",
           "team": "孔乙己在流水线上哭着要回古代",
@@ -23906,7 +25049,11 @@
           "date": "2020-12-27",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "刘泽",
           "team": "关于取队名真的很难这件事",
@@ -23996,7 +25143,9 @@
           "year": 2021,
           "date": "2021-07-18",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "王博",
           "team": "保温杯里泡红牛",
@@ -24037,7 +25186,11 @@
           "date": "2020-12-20",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "王鹏",
           "team": "什么东西",
@@ -24110,7 +25263,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "王宇新",
           "team": "郑大26网络赛队伍7",
@@ -24127,7 +25281,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "王宇新",
           "team": "郑大26网络赛队伍7",
@@ -24184,7 +25339,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "张璐瑶",
           "team": "郑大26网络赛队伍7",
@@ -24201,7 +25357,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "张璐瑶",
           "team": "郑大26网络赛队伍7",
@@ -24257,7 +25414,9 @@
           "year": 2026,
           "date": "2026-10-18",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "区域赛-西安站"
           ],
           "person": "张沛轩",
           "team": "你们都调不队",
@@ -24274,7 +25433,8 @@
           "date": "2026-09-19",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "张沛轩",
           "team": "郑大26网络赛队伍5",
@@ -24291,7 +25451,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "张沛轩",
           "team": "郑大26网络赛队伍13",
@@ -24308,7 +25469,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "张沛轩",
           "team": "郑大26网络赛队伍13",
@@ -24331,7 +25493,11 @@
           "date": "2021-04-03",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-昆明站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "章龙",
           "team": "队友比赛时睡着了",
@@ -24348,7 +25514,11 @@
           "date": "2020-12-13",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-上海站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "章龙",
           "team": "暗夜冷锋",
@@ -24404,7 +25574,11 @@
           "date": "2020-12-27",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "赵斌",
           "team": "关于取队名真的很难这件事",
@@ -24421,7 +25595,11 @@
           "date": "2020-12-20",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "赵斌",
           "team": "夜的向日葵",
@@ -24535,7 +25713,11 @@
           "date": "2020-12-13",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-上海站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "陈玥澎",
           "team": "星河滚烫，你是人间理想",
@@ -24710,7 +25892,11 @@
           "date": "2020-12-13",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-上海站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "刘伟泽",
           "team": "星河滚烫，你是人间理想",
@@ -24824,7 +26010,11 @@
           "date": "2020-12-27",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "宋沂轩",
           "team": "蹦沙卡拉卡",
@@ -24939,7 +26129,10 @@
           "year": 2023,
           "date": "2023-11-12",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "谢天贵",
           "team": "弗莱斯曼",
@@ -24972,7 +26165,9 @@
           "year": 2022,
           "date": "2022-11-13",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛"
           ],
           "person": "谢天贵",
           "team": "试锋组",
@@ -25069,7 +26264,10 @@
           "year": 2021,
           "date": "2021-11-14",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站"
           ],
           "person": "杨宇航",
           "team": "感觉不如线下。。线上",
@@ -25110,7 +26308,11 @@
           "date": "2020-12-13",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-上海站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "叶壮壮",
           "team": "星河滚烫，你是人间理想",
@@ -25167,7 +26369,11 @@
           "date": "2021-04-03",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-昆明站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "岳希航",
           "team": "西西弗斯",
@@ -25225,7 +26431,11 @@
           "date": "2020-12-27",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "张朝轲",
           "team": "蹦沙卡拉卡",
@@ -25283,7 +26493,11 @@
           "date": "2023-09-23",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "张晶涵",
           "team": "黑灰化肥会挥发发灰黑讳为花飞",
@@ -25300,7 +26514,11 @@
           "date": "2023-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "张晶涵",
           "team": "黑灰化肥会挥发发灰黑讳为花飞",
@@ -25340,7 +26558,11 @@
           "date": "2020-12-20",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "张子昂",
           "team": "夜的向日葵",
@@ -25397,7 +26619,11 @@
           "date": "2020-12-27",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "赵堃",
           "team": "蹦沙卡拉卡",
@@ -25453,7 +26679,11 @@
           "date": "2021-04-03",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-昆明站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "赵龙宇",
           "team": "我是谁我在哪我在干嘛",
@@ -25470,7 +26700,11 @@
           "date": "2020-12-27",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "赵龙宇",
           "team": "我是谁我在哪我在干嘛",
@@ -25681,7 +26915,9 @@
           "year": 2022,
           "date": "2022-11-20",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛"
           ],
           "person": "周逸进",
           "team": "铁华团",
@@ -25698,7 +26934,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "周逸进",
           "team": "刀开明月环",
@@ -25715,7 +26955,11 @@
           "date": "2022-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "周逸进",
           "team": "刀开明月环",
@@ -25894,7 +27138,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "陈泽瑜",
           "team": "郑大26网络赛队伍14",
@@ -25911,7 +27156,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "陈泽瑜",
           "team": "郑大26网络赛队伍14",
@@ -25974,7 +27220,8 @@
           "date": "2025-09-20",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "丁玉磊",
           "team": "郑大25网络赛队伍一",
@@ -26014,7 +27261,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "樊淼淼",
           "team": "郑大26网络赛队伍7",
@@ -26031,7 +27279,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "樊淼淼",
           "team": "郑大26网络赛队伍7",
@@ -26054,7 +27303,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "封俊宇",
           "team": "郑大26网络赛队伍15",
@@ -26071,7 +27321,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "封俊宇",
           "team": "郑大26网络赛队伍15",
@@ -26175,7 +27426,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "黄家乐",
           "team": "郑大26网络赛队伍4",
@@ -26192,7 +27444,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "黄家乐",
           "team": "郑大26网络赛队伍4",
@@ -26308,7 +27561,9 @@
           "year": 2022,
           "date": "2022-11-13",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛"
           ],
           "person": "兰家赫",
           "team": "试锋组",
@@ -26371,7 +27626,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "李建政",
           "team": "郑大26网络赛队伍4",
@@ -26388,7 +27644,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "李建政",
           "team": "郑大26网络赛队伍4",
@@ -26735,7 +27992,10 @@
           "year": 2023,
           "date": "2023-11-12",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "罗毅",
           "team": "弗莱斯曼",
@@ -26775,7 +28035,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "孟凡哲",
           "team": "刀开明月环",
@@ -26792,7 +28056,11 @@
           "date": "2022-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "孟凡哲",
           "team": "刀开明月环",
@@ -26831,7 +28099,9 @@
           "year": 2022,
           "date": "2022-11-13",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛"
           ],
           "person": "牛靖博",
           "team": "疯寝队",
@@ -26854,7 +28124,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "乔云卓",
           "team": "刀开明月环",
@@ -26871,7 +28145,11 @@
           "date": "2022-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "乔云卓",
           "team": "刀开明月环",
@@ -26953,7 +28231,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "商家栋",
           "team": "签到就是成功",
@@ -26976,7 +28258,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "沈立崟",
           "team": "郑大26网络赛队伍10",
@@ -26993,7 +28276,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "沈立崟",
           "team": "郑大26网络赛队伍10",
@@ -27016,7 +28300,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "石博文",
           "team": "郑大26网络赛队伍14",
@@ -27033,7 +28318,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "石博文",
           "team": "郑大26网络赛队伍14",
@@ -27096,7 +28382,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "孙华斌",
           "team": "郑大26网络赛队伍14",
@@ -27113,7 +28400,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "孙华斌",
           "team": "郑大26网络赛队伍14",
@@ -27135,7 +28423,10 @@
           "year": 2021,
           "date": "2021-11-14",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站"
           ],
           "person": "孙懿枫",
           "team": "格外的青",
@@ -27215,7 +28506,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "宛信宇",
           "team": "郑大26网络赛队伍10",
@@ -27232,7 +28524,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "宛信宇",
           "team": "郑大26网络赛队伍10",
@@ -27255,7 +28548,11 @@
           "date": "2020-12-20",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站",
+            "线上赛",
+            "区域赛线上赛"
           ],
           "person": "王家明",
           "team": "线上旅游真好玩",
@@ -27294,7 +28591,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "王嘉赫",
           "team": "郑大26网络赛队伍15",
@@ -27311,7 +28609,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "王嘉赫",
           "team": "郑大26网络赛队伍15",
@@ -27334,7 +28633,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "王连源",
           "team": "郑大26网络赛队伍10",
@@ -27351,7 +28651,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "王连源",
           "team": "郑大26网络赛队伍10",
@@ -27414,7 +28715,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "王子涵",
           "team": "郑大26网络赛队伍11",
@@ -27431,7 +28733,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "王子涵",
           "team": "郑大26网络赛队伍11",
@@ -27494,7 +28797,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "魏望埔",
           "team": "郑大26网络赛队伍11",
@@ -27511,7 +28815,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "魏望埔",
           "team": "郑大26网络赛队伍11",
@@ -27534,7 +28839,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "吴承运",
           "team": "郑大26网络赛队伍4",
@@ -27551,7 +28857,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "吴承运",
           "team": "郑大26网络赛队伍4",
@@ -27632,7 +28939,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "吴阳",
           "team": "签到就是成功",
@@ -27655,7 +28966,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "徐海洋",
           "team": "郑大26网络赛队伍15",
@@ -27672,7 +28984,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "徐海洋",
           "team": "郑大26网络赛队伍15",
@@ -27733,7 +29046,8 @@
           "date": "2025-09-20",
           "categories": [
             "CCPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "许振兵",
           "team": "郑大25网络赛队伍一",
@@ -27852,7 +29166,10 @@
           "year": 2022,
           "date": "2022-11-27",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站"
           ],
           "person": "俞子睿",
           "team": "zzu_114514",
@@ -27869,7 +29186,11 @@
           "date": "2022-09-17",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "俞子睿",
           "team": "zzu_114514",
@@ -28012,7 +29333,10 @@
           "year": 2021,
           "date": "2021-11-14",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-济南站"
           ],
           "person": "郑圆梦",
           "team": "格外的青",
@@ -28069,7 +29393,9 @@
           "year": 2022,
           "date": "2022-11-13",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛"
           ],
           "person": "周舟",
           "team": "疯寝队",
@@ -28092,7 +29418,8 @@
           "date": "2026-09-12",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "朱守泽",
           "team": "郑大26网络赛队伍11",
@@ -28109,7 +29436,8 @@
           "date": "2026-09-06",
           "categories": [
             "ICPC",
-            "线上赛"
+            "线上赛",
+            "预选赛"
           ],
           "person": "朱守泽",
           "team": "郑大26网络赛队伍11",
@@ -28131,7 +29459,10 @@
           "year": 2023,
           "date": "2023-11-12",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-沈阳站"
           ],
           "person": "朱一宸",
           "team": "弗莱斯曼",
@@ -28662,7 +29993,10 @@
           "year": 2021,
           "date": "2021-12-04",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站"
           ],
           "person": "郝栋",
           "team": "说“嗨”",
@@ -28892,7 +30226,11 @@
           "date": "2022-09-25",
           "categories": [
             "ICPC",
-            "线上赛"
+            "区域赛",
+            "亚洲区域赛",
+            "线上赛",
+            "区域赛线上赛",
+            "预选赛"
           ],
           "person": "林城凯",
           "team": "签到就是成功",
@@ -29235,7 +30573,9 @@
           "year": 2022,
           "date": "2022-11-13",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛"
           ],
           "person": "王建文",
           "team": "锐刻五队",
@@ -29417,7 +30757,9 @@
           "year": 2022,
           "date": "2022-11-13",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛"
           ],
           "person": "王志宇",
           "team": "试锋组",
@@ -29463,7 +30805,9 @@
           "year": 2022,
           "date": "2022-11-13",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛"
           ],
           "person": "闫家航",
           "team": "锐刻五队",
@@ -29578,7 +30922,10 @@
           "year": 2021,
           "date": "2021-12-04",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛",
+            "区域赛-南京站"
           ],
           "person": "于傲寒",
           "team": "说“嗨”",
@@ -29647,7 +30994,9 @@
           "year": 2022,
           "date": "2022-11-13",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛"
           ],
           "person": "张欣源",
           "team": "锐刻五队",
@@ -29853,7 +31202,9 @@
           "year": 2022,
           "date": "2022-11-13",
           "categories": [
-            "ICPC"
+            "ICPC",
+            "区域赛",
+            "亚洲区域赛"
           ],
           "person": "朱博文",
           "team": "疯寝队",
